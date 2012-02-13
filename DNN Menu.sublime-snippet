@@ -1,0 +1,7 @@
+<snippet>
+	<content>
+		<![CDATA[<nav class="navigation" role="navigation"><dnn:MENU ID="MENU1" MenuStyle="menu" runat="server" ExcludeNodes="55"></dnn:MENU>​</div>]]>
+	</content>
+	<tabTrigger>^DNN</tabTrigger>
+	<description>DNN Menu Navigation</description>
+</snippet>
