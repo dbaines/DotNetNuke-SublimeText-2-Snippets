@@ -1,0 +1,7 @@
+<snippet>
+	<content>
+		<![CDATA[<%=PortalSettings.ActiveTab.Name %>]]>
+	</content>
+	<tabTrigger>^PageName</tabTrigger>
+	<description>DNN Skin Token: This Page Name</description>
+</snippet>

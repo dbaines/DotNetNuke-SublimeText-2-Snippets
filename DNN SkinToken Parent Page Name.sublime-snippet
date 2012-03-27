@@ -1,0 +1,7 @@
+<snippet>
+	<content>
+		<![CDATA[<%=PortalSettings.ActiveTab.BreadCrumbs(PortalSettings.ActiveTab.Level - 1).TabName %>]]>
+	</content>
+	<tabTrigger>^ParentName</tabTrigger>
+	<description>DNN Skin Token: Name of Parent Page</description>
+</snippet>

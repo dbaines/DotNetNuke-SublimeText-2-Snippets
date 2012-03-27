@@ -1,0 +1,7 @@
+<snippet>
+	<content>
+		<![CDATA[<div id="${1:PositionName}" class="${1}" containertype="L" containername="${2:containerfolder}" containersrc="${3:blank.ascx}" runat="server"></div>]]>
+	</content>
+	<tabTrigger>^DNNModule</tabTrigger>
+	<description>DNN Module Position Div</description>
+</snippet>

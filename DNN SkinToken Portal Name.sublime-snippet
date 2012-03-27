@@ -1,0 +1,7 @@
+<snippet>
+	<content>
+		<![CDATA[<%=PortalSettings.PortalName %>]]>
+	</content>
+	<tabTrigger>^PortalName</tabTrigger>
+	<description>DNN Skin Token: Portal Name</description>
+</snippet>

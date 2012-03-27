@@ -1,0 +1,7 @@
+<snippet>
+	<content>
+		<![CDATA[<%=PortalSettings.HomeDirectory %>]]>
+	</content>
+	<tabTrigger>^PortalDir</tabTrigger>
+	<description>DNN Skin Token: Portal Directory</description>
+</snippet>
