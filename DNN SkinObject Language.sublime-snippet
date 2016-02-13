@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+		<![CDATA[<%@ Register TagPrefix="dnn" TagName="LANGUAGE" Src="~/Admin/Skins/Language.ascx" %>
+<dnn:Language runat="server" id="${1:dnnLanguage}" ShowMenu="${2:[true, false]}" ShowLinks="${3:[true, false]}" CommonHeaderTemplate="$4" HeaderTemplate="$5" ItemTemplate="$6" AlternateTemplate="$7" SeparatorTemplate="$8" FooterTemplate="$9" CommonFooterTemplate="$10" CssClass="$11" />]]>
+	</content>
+	<tabTrigger>dnnlanguage</tabTrigger>
+	<description>DNN Language</description>
+</snippet>

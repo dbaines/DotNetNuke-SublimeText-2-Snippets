@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+		<![CDATA[<%@ Register TagPrefix="dnn" TagName="Privacy" Src="~/Admin/Skins/privacy.ascx" %>
+<dnn:Privacy runat="server" id="${1:dnnPrivacy}" Text="${2:Privacy Statement}" CssClass="$3" />]]>
+	</content>
+	<tabTrigger>dnnprivacy</tabTrigger>
+	<description>DNN Privacy</description>
+</snippet>

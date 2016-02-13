@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+		<![CDATA[<%@ Register TagPrefix="dnn" TagName="CURRENTDATE" Src="~/Admin/Skins/CurrentDate.ascx" %>
+<dnn:CurrentDate runat="server" id="${1:dnnCurrentDate}" CssClass="$2" DateFormat="${3:MMM dd, yyyy}" />]]>
+	</content>
+	<tabTrigger>dnndate</tabTrigger>
+	<description>DNN Current Date</description>
+</snippet>

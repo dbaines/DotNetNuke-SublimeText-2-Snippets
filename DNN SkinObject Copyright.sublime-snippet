@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+		<![CDATA[<%@ Register TagPrefix="dnn" TagName="Copyright" Src="~/Admin/Skins/copyright.ascx" %>
+<dnn:Copyright runat="server" id="${1:dnnCopyright}" CssClass="$2" />]]>
+	</content>
+	<tabTrigger>dnncopyright</tabTrigger>
+	<description>DNN Copyright</description>
+</snippet>

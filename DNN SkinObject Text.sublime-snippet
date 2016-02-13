@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+		<![CDATA[<%@ Register TagPrefix="dnn" TagName="TEXT" Src="~/Admin/Skins/Text.ascx" %>
+<dnn:TEXT runat="server" id="${1:dnnTEXT}" Text="$2" resourceKey="$3" replaceTokens="${4:false}" CssClass="$5" />]]>
+	</content>
+	<tabTrigger>dnntext</tabTrigger>
+	<description>DNN Text</description>
+</snippet>

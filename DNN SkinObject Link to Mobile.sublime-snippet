@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+		<![CDATA[<%@ Register TagPrefix="dnn" TagName="LinkToMobileSite" Src="~/Admin/Skins/LinkToMobileSite.ascx" %>
+<dnn:LinkToMobileSite ID="${1:dnnLinkToMobileSite}" runat="server" />]]>
+	</content>
+	<tabTrigger>dnnlinkmobile</tabTrigger>
+	<description>DNN Link to Mobile Site</description>
+</snippet>
