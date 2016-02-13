@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+		<![CDATA[<%@ Register TagPrefix="dnn" TagName="LinkToFullSite" Src="~/Admin/Skins/LinkToFullSite.ascx" %>
+<dnn:LinkToFullSite ID="${1:dnnLinkToFullSite}" runat="server" />]]>
+	</content>
+	<tabTrigger>dnnlinkfull</tabTrigger>
+	<description>DNN Link to Full Site</description>
+</snippet>

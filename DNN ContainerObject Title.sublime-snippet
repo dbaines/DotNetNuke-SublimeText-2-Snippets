@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+		<![CDATA[<%@ Register TagPrefix="dnn" TagName="TITLE" Src="~/Admin/Containers/Title.ascx" %>
+<dnn:Title runat="server" id="${1:dnnTitle}" />]]>
+	</content>
+	<tabTrigger>dnncontainertitle</tabTrigger>
+	<description>DNN Container Title</description>
+</snippet>

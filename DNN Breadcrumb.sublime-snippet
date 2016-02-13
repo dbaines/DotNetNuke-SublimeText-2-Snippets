@@ -1,7 +1,0 @@
-<snippet>
-	<content>
-		<![CDATA[<div class="breadcrumbs"><dnn:BREADCRUMB ID="dnnBreadcrumb" runat="server" RootLevel="0" Separator="<span class=&quot;Sep&quot;> / </span>" /></div>]]>
-	</content>
-	<tabTrigger>^DNN</tabTrigger>
-	<description>DNN Breadcrumb</description>
-</snippet>

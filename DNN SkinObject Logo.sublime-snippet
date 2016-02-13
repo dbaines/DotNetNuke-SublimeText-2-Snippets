@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+		<![CDATA[<%@ Register TagPrefix="dnn" TagName="Logo" Src="~/Admin/Skins/logo.ascx" %>
+<dnn:Logo runat="server" id="${1:dnnLogo}" />]]>
+	</content>
+	<tabTrigger>dnnlogo</tabTrigger>
+	<description>DNN Logo</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+		<![CDATA[<object id="CONTENTPANE" codetype="dotnetnuke/server" codebase="CONTENTPANE">
+<div runat="server" id="${1:ContentPane}" />]]>
+	</content>
+	<tabTrigger>dnncontainertitle</tabTrigger>
+	<description>DNN Container Title</description>
+</snippet>

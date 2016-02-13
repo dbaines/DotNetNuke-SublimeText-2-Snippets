@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+		<![CDATA[<%@ Register TagPrefix="dnn" TagName="Breadcrumb" Src="~/Admin/Skins/breadcrumb.ascx" %>
+<dnn:Breadcrumb runat="server" id="${1:dnnBreadcrumb}" CssClass="$2" RootLevel="${3:1}" Separator="$4" UseTitle="${5:[true, false]}" />]]>
+	</content>
+	<tabTrigger>dnnbreadcrumb</tabTrigger>
+	<description>DNN Breadcrumb</description>
+</snippet>

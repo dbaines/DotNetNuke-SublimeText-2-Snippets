@@ -1,7 +1,0 @@
-<snippet>
-	<content>
-		<![CDATA[<dnn:SEARCH ID="dnnSearch" runat="server" UseDropDownList="false" EnableTheming="true" Submit="Search" ShowSite="false" ShowWeb="false" />]]>
-	</content>
-	<tabTrigger>^DNN</tabTrigger>
-	<description>DNN Search</description>
-</snippet>

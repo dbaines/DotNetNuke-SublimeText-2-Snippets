@@ -1,7 +1,0 @@
-<snippet>
-	<content>
-		<![CDATA[<%=iif(Request.IsAuthenticated,"LoggedIn","NotLoggedIn") %>]]>
-	</content>
-	<tabTrigger>^IsLoggedIn</tabTrigger>
-	<description>DNN: Logged In Check</description>
-</snippet>

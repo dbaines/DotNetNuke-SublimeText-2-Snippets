@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+		<![CDATA[<%@ Register TagPrefix="dnn" TagName="User" Src="~/Admin/Skins/user.ascx" %>
+<dnn:User runat="server" id="${1:dnnUser}" Text="${2:Register}" CssClass="$3" LegacyMode="${4:true}" />]]>
+	</content>
+	<tabTrigger>dnnuser</tabTrigger>
+	<description>DNN User</description>
+</snippet>

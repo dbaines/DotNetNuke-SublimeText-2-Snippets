@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+		<![CDATA[<%@ Register TagPrefix="dnn" TagName="LINKS" src="~/Admin/Skins/Links.ascx" %>
+<dnn:LINKS runat="server" id="${1:dnnLINKS}" CssClass="$2" Separator="$3" Alignment="${4:[horizontal, vertical]}" Level="${5:[same, child, parent, root]}" ForceLinks="${6:[true, false]}" />]]>
+	</content>
+	<tabTrigger>dnnlinks</tabTrigger>
+	<description>DNN Links</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+		<![CDATA[<%@ Register TagPrefix="dnn" TagName="Terms" Src="~/Admin/Skins/terms.ascx" %>
+<dnn:Terms runat="server" id="${1:dnnTerms}" Text="${2:Terms of Use}" CssClass="$3" />]]>
+	</content>
+	<tabTrigger>dnnterms</tabTrigger>
+	<description>DNN Terms</description>
+</snippet>
