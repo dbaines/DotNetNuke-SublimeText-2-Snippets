@@ -1,0 +1,7 @@
+<snippet>
+	<content>
+		<![CDATA[<% =PortalSettings.ActiveTab.FullUrl %>]]>
+	</content>
+	<tabTrigger>dnnpageurl</tabTrigger>
+	<description>DNN Skin Token: Current Page Url</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content>
+		<![CDATA[<% =DotNetNuke.Common.Globals.NavigateURL(PortalSettings.SplashTabId) %>]]>
+	</content>
+	<tabTrigger>dnnsplashpageurl</tabTrigger>
+	<description>DNN Skin Token: Splash Page Url</description>
+</snippet>

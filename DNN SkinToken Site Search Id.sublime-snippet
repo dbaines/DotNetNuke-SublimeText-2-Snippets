@@ -1,0 +1,7 @@
+<snippet>
+	<content>
+		<![CDATA[<% =PortalSettings.SearchTabId %>]]>
+	</content>
+	<tabTrigger>dnnsearchpageid</tabTrigger>
+	<description>DNN Skin Token: Search Results Page Id</description>
+</snippet>

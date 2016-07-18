@@ -1,0 +1,7 @@
+<snippet>
+	<content>
+		<![CDATA[<% = DotNetNuke.Common.Globals.NavigateURL(PortalSettings.HomeTabId) %>]]>
+	</content>
+	<tabTrigger>dnnhomepageurl</tabTrigger>
+	<description>DNN Skin Token: Home Page Url</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content>
+		<![CDATA[<% =UserController.GetCurrentUserInfo().FirstName %>]]>
+	</content>
+	<tabTrigger>dnnuserfirstname</tabTrigger>
+	<description>DNN Skin Token: User First Name</description>
+</snippet>

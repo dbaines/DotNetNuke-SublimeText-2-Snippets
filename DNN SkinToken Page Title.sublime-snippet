@@ -1,7 +1,7 @@
 <snippet>
 	<content>
-		<![CDATA[<%= PortalSettings.ActiveTab.Title %>]]>
+		<![CDATA[<% =PortalSettings.ActiveTab.Title %>]]>
 	</content>
-	<tabTrigger>^PageTitle</tabTrigger>
-	<description>DNN Skin Token: This Page Title (Not Name)</description>
+	<tabTrigger>dnnpagetitle</tabTrigger>
+	<description>DNN Skin Token: Current Page Title (Not Name)</description>
 </snippet>

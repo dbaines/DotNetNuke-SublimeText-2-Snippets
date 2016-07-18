@@ -1,0 +1,7 @@
+<snippet>
+	<content>
+		<![CDATA[<% =DotNetNuke.Common.Globals.NavigateURL(PortalSettings.SearchTabId) %>]]>
+	</content>
+	<tabTrigger>dnnsearchpageurl</tabTrigger>
+	<description>DNN Skin Token: Search Results Page Url</description>
+</snippet>

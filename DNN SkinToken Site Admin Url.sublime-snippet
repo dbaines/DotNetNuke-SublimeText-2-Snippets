@@ -1,0 +1,7 @@
+<snippet>
+	<content>
+		<![CDATA[<% =DotNetNuke.Common.Globals.NavigateURL(PortalSettings.AdminTabId) %>]]>
+	</content>
+	<tabTrigger>dnnadminpageurl</tabTrigger>
+	<description>DNN Skin Token: Admin Page Url</description>
+</snippet>

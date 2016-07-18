@@ -1,7 +1,7 @@
 <snippet>
 	<content>
-		<![CDATA[<%= PortalSettings.ActiveTab.TabID %>]]>
+		<![CDATA[<% =PortalSettings.ActiveTab.TabID %>]]>
 	</content>
-	<tabTrigger>^PageTabID</tabTrigger>
-	<description>DNN Skin Token: This Page TabID</description>
+	<tabTrigger>dnnpageid</tabTrigger>
+	<description>DNN Skin Token: Current Page TabID</description>
 </snippet>

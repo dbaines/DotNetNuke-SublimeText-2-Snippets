@@ -1,0 +1,7 @@
+<snippet>
+	<content>
+		<![CDATA[<% =DotNetNuke.Common.Globals.NavigateURL(PortalSettings.UserTabId) %>]]>
+	</content>
+	<tabTrigger>dnnuserprofile</tabTrigger>
+	<description>DNN Skin Token: User Profile Page Url</description>
+</snippet>

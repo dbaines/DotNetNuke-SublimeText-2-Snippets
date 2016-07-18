@@ -1,7 +1,7 @@
 <snippet>
 	<content>
-		<![CDATA[<%= PortalSettings.ActiveTab.IconFile %>]]>
+		<![CDATA[<% =PortalSettings.ActiveTab.IconFile %>]]>
 	</content>
-	<tabTrigger>^PageIcon</tabTrigger>
-	<description>DNN Skin Token: This Page Icon</description>
+	<tabTrigger>dnnpageicon</tabTrigger>
+	<description>DNN Skin Token: Current Page Icon</description>
 </snippet>

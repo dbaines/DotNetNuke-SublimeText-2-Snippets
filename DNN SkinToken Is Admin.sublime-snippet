@@ -1,0 +1,7 @@
+<snippet>
+	<content>
+		<![CDATA[<% =UserController.GetCurrentUserInfo().IsInRole("Administrators").ToString().ToLower() %>]]>
+	</content>
+	<tabTrigger>dnnisadmin</tabTrigger>
+	<description>DNN Skin Token: Is Admin</description>
+</snippet>

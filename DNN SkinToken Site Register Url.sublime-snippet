@@ -1,0 +1,7 @@
+<snippet>
+	<content>
+		<![CDATA[<% =DotNetNuke.Common.Globals.NavigateURL(PortalSettings.RegisterTabId) %>]]>
+	</content>
+	<tabTrigger>dnnregisterpageurl</tabTrigger>
+	<description>DNN Skin Token: Register Page Url</description>
+</snippet>

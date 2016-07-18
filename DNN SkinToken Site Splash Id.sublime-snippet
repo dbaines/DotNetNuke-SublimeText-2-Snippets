@@ -1,0 +1,7 @@
+<snippet>
+	<content>
+		<![CDATA[<% =PortalSettings.SplashTabId %>]]>
+	</content>
+	<tabTrigger>dnnsplashpageid</tabTrigger>
+	<description>DNN Skin Token: Splash Page Id</description>
+</snippet>

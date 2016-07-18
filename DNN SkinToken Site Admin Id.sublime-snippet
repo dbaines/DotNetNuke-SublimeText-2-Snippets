@@ -1,0 +1,7 @@
+<snippet>
+	<content>
+		<![CDATA[<% =PortalSettings.AdminTabId %>]]>
+	</content>
+	<tabTrigger>dnnadminpageid</tabTrigger>
+	<description>DNN Skin Token: Admin Page Id</description>
+</snippet>

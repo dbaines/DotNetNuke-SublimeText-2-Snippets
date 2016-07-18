@@ -1,0 +1,7 @@
+<snippet>
+	<content>
+		<![CDATA[<% =PortalSettings.ActiveTab.TabType %>]]>
+	</content>
+	<tabTrigger>dnnpagetype</tabTrigger>
+	<description>DNN Skin Token: Current Page Type</description>
+</snippet>

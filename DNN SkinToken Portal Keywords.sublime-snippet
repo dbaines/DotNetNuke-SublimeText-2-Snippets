@@ -1,0 +1,7 @@
+<snippet>
+	<content>
+		<![CDATA[<% =PortalSettings.KeyWords %>]]>
+	</content>
+	<tabTrigger>dnnportalkeywords</tabTrigger>
+	<description>DNN Skin Token: Portal Keywords</description>
+</snippet>

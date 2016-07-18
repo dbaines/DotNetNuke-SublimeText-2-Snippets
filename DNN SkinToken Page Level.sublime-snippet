@@ -1,0 +1,7 @@
+<snippet>
+	<content>
+		<![CDATA[<% =PortalSettings.ActiveTab.Level %>]]>
+	</content>
+	<tabTrigger>dnnpagelevel</tabTrigger>
+	<description>DNN Skin Token: Current Page Level</description>
+</snippet>
