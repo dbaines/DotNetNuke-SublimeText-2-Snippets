@@ -1,8 +1,7 @@
 <snippet>
 	<content>
 		<![CDATA[<%@ Register TagPrefix="dnn" TagName="Search" Src="~/Admin/Skins/search.ascx" %>
-<dnn:Search runat="server" id="${1:dnnSearch}" CssClass="$2" ShowSite="${3:false}" ShowWeb="${4:false}" SiteIconURL="$5" SiteText="$6" SiteToolTip="$7" SiteUrl="$8" Submit="$9" UseWebForSite="${10:false}" UseDropDownList="${11:false}" WebIconURL="$12" WebText="$13" WebToolTip="$14" WebURL="$15" />
-<%@ Register TagPrefix="dnn" TagName="Search" Src="~/Admin/Skins/search.ascx" %>]]>
+<dnn:Search runat="server" id="${1:dnnSearch}" CssClass="$2" ShowSite="${3:false}" ShowWeb="${4:false}" SiteIconURL="$5" SiteText="$6" SiteToolTip="$7" SiteUrl="$8" Submit="$9" UseWebForSite="${10:false}" UseDropDownList="${11:false}" WebIconURL="$12" WebText="$13" WebToolTip="$14" WebURL="$15" />]]>
 	</content>
 	<tabTrigger>dnnsearch</tabTrigger>
 	<description>DNN Search</description>

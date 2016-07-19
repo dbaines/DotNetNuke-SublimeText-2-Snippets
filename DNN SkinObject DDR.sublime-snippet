@@ -1,0 +1,17 @@
+<snippet>
+	<content>
+		<![CDATA[<%@ Register TagPrefix="dnn" Namespace="DotNetNuke.Web.DDRMenu.TemplateEngine" Assembly="DotNetNuke.Web.DDRMenu" %>
+<dnn:Menu runat="server" MenuStyle="$1" NodeSelector="$2" IncludeNodes="$3" ExcludeNodes="$4" IncludeHidden="$5" NodeXmlPath="$6" NodeManipulator="$7">
+	<TemplateArguments> 
+		<dnn:TemplateArgument Name="" Value="" />
+	</TemplateArguments>
+	<ClientOptions>
+		<dnn:ClientString Name="" Value="" />
+		<dnn:ClientNumber Name="" Value="" />
+		<dnn:ClientBoolean Name="" Value="" />
+	</ClientOptions>
+</dnn:MENU>]]>
+	</content>
+	<tabTrigger>dnnddr</tabTrigger>
+	<description>DNN DDR Menu</description>
+</snippet>
