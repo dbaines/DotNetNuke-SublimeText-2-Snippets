@@ -1,0 +1,7 @@
+<snippet>
+	<content>
+		<![CDATA[<% =SkinPath %>]]>
+	</content>
+	<tabTrigger>dnnskinpath</tabTrigger>
+	<description>DNN Skin Token: Path to Current Skin</description>
+</snippet>

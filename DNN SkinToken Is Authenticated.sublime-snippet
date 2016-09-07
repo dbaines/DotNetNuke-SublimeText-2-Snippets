@@ -1,0 +1,7 @@
+<snippet>
+	<content>
+		<![CDATA[<% =Request.IsAuthenticated %>]]>
+	</content>
+	<tabTrigger>dnnloggedin</tabTrigger>
+	<description>DNN Skin Token: Is User Logged In</description>
+</snippet>

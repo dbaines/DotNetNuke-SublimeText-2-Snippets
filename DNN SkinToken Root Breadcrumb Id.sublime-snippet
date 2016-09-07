@@ -1,0 +1,7 @@
+<snippet>
+	<content>
+		<![CDATA[<% =PortalSettings.ActiveTab.BreadCrumbs.Cast<DotNetNuke.Entities.Tabs.TabInfo>().First().TabID %>]]>
+	</content>
+	<tabTrigger>dnnrootid</tabTrigger>
+	<description>DNN Skin Token: Root Breadcrumb ID</description>
+</snippet>
